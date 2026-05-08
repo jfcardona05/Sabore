@@ -52,6 +52,12 @@ h3{
     background:rgba(245,241,235,0.9);
 
     backdrop-filter:blur(10px);
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
 }
 
 
